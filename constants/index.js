@@ -11,7 +11,7 @@ export const exploreWorlds = [
   },
   {
     id: 'world-3',
-    imgUrl: '/romance.jpeg',
+    imgUrl: '/Romance.jpeg',
     title: 'Romance',
   },
   {
